@@ -13,7 +13,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring.cloud.function.version>1.0.0.M1</spring.cloud.function.version>
+        <spring.cloud.function.version>1.0.0.RELEASE</spring.cloud.function.version>
     </properties>
 
     <dependencies>
